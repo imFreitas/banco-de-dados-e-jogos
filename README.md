@@ -20,3 +20,18 @@ Código possui várias faces. vários jeitos de escrever.
 Crie o seu. 
 
 <img src = "https://lh3.googleusercontent.com/vLoAwjknYyp0ReKyoeRWFF8AhCyYQEKuzUOISnmNOKQ-Ggh2tchLJsOlHT1h6mgjuXgJMHpJVSjN_wUoIRNToluYiaSlcQmAgPViShIjrsek1juNL9JBAJW4ISYxDjnIR69yXZCWrWXRLtRPm7ohHgq1pHthd6XTORg7ZJXjaU9_cOvzBOEG9UDIkkYVuwgIrQkBq5985Gk5TWG1KqBQk9cjjZljnY0zjE-tQ3xfVeuw_KKGVwINwnFvXZrXhpbgVffOZA3ddW-o3Fyh6fEjYRG4aPFJwO90wDWWFrcMojVlWteTF_EEW9hIKekiI8Q72d1j9VJK0L3QYOsCD4wiHNQ8r2iwquUH6jqjyrIaq3FJ7I5Q-ZP78kNMGZYlZ_rL7KEprC-uvZA-Xvmf7XW4E8BYpSPtRs5HAXgU4MQPvHf2xxu_Ht6gdTuCvXxuzTfoIDXEIMWVWGPhMcTesiWA5SH-zSFkGtiqBc_7E6gICiw4pcNTTHPSsYxzryDffHE9vKoeLhFEthV5Fg3YAVpRoGQ-0pF-lT010qYVaFL3wVRAKaDHSfYrn48cwnN_yyeP_KH2Tf2cEHypaYtPEv2b3m2PbmbTgmKM2IcUIqx5r6bY1oufPJrZqFOiuPUCw50EQ6ZnLTgehGUiaV_j-RI80K1daOvAjkaQi5lwa8Hf3rQyXAjBbJPA-3LpyXBIB_JmWVK5U1nHcraRu_3eyBvvUn4VJiZbh8wJXpJ2UeZTplX95A_0bwXDksFTGWers1-ugUQHO_tuYr4iPF0nOmBDRKeH7hftkYkU1sBA_lIfgncSxWpqnHoewomPzYS0SAVQ_VW7ISXbn1cIlb2x-5O6yIVVjzChZ8Pb8mbXkTEPtWMNIcwOeXyHyt1CAevcPycV52mQEbtvf5rIRaj5qBqsOl5gKgRLkaSnRqU-qCUTr0cX=w711-h479-no?authuser=0">
+
+
+
+# É possível contar histórias com um banco de dados?
+## SIM! 
+
+### E é isso que você vai fazer agora. 
+Mas o banco que vamos usar é uma planilha do Google Sheets. 
+
+Utilizando uma planilha simples e organizada descreva um evento que tenha acontecido ao longo de décadas (ou séculos). Algo como a construção das pirâmides, a história do seu time de futebol ou a evolução do seu gênero musical preferido. 
+
+Vamos usar essa ferramenta aqui -> http://storyline.knightlab.com/ para dar um toque interativo e dinâmico pra sua escolha. 
+
+Crie uma página em HTML, estilize como quiser, coloque o iframe com o conteúdo e publique no seu github. :) 
+
